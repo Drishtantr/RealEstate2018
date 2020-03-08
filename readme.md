@@ -1,6 +1,6 @@
 # Project Name
 
-TODO: Write a project description
+TODO: Real Estate Web Application using Python Django
 
 ## Installation
 
